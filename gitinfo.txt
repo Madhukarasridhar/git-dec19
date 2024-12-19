@@ -1,0 +1,20 @@
+Git was invented by Linus Torvalds, the creator of Linux, in 2005.
+
+Git is a version control system that helps track changes in files.
+Git keeps a history of all changes made to a project, allowing you to revert to previous versions or compare different states.
+
+Key Git Terminology:
+Repository (Repo): A project folder where all files and the version history are stored.
+Commit: A snapshot of the changes you've made to the repository at a particular point in time.
+Branch: A separate line of development that allows you to work on new features without affecting the main project.
+Merge: Combining changes from different branches.
+Clone: Making a copy of a repository from GitHub to your local machine.
+Push: Uploading your changes from your local machine to the remote repository (e.g., on GitHub).
+Pull: Downloading the latest changes from the remote repository to your local machine.
+
+Best Practices
+Commit Often: Commit your changes frequently, with clear and descriptive messages.
+Branching: Use branches for new features or bug fixes, and merge them into the main branch once completed.
+Sync Regularly: Regularly pull changes from the remote repository to keep your local copy up to date.
+
+GitHub is a platform for hosting and sharing Git repositories, providing additional features for collaboration, like pull requests and issues.
